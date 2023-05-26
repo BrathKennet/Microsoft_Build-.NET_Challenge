@@ -1,4 +1,4 @@
-# Microsoft Build: .NET_Challenge
+# Microsoft Build: .NET Challenge
 
 Hola a todos, me complace compartir el trabajo que realizaré en el desafío de Microsoft denominado Microsoft Build: .NET_Challenge
 
