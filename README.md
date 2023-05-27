@@ -8,8 +8,8 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 
 ## Módulos
 - Módulo 1: Escritura de código de C# por primera vez. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-1)
-- Módulo 2: Introducción al desarrollo web mediante Visual Studio Code
-- Módulo 3: Los aspectos básicos de la accesibilidad web
+- Módulo 2: Introducción al desarrollo web mediante Visual Studio Code. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-2)
+- Módulo 3: Los aspectos básicos de la accesibilidad web. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-3)
 - Módulo 4: Creación de una interfaz de usuario web con ASP.NET Core
 - Módulo 5: Creación de una API web con controladores de ASP.NET Core
 - Módulo 6: Publicación de una aplicación web en Azure con Visual Studio
