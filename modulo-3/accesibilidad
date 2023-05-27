@@ -1,0 +1,35 @@
+Hay varias herramientas e informes que pueden identificar los problemas que deben solucionarse. 
+También hay estándares, como las etiquetas ARIA, que ayudan a que una aplicación pueda usarla
+cualquier usuario.
+
+1. Asegurarse de que las páginas web sean accesibles para todos los usuarios
+Tim Berners-Lee, creador del World Wide Web: "El poder de la Web está en su universalidad. 
+Que cualquier persona pueda acceder, aunque tenga una discapacidad, es un aspecto esencial".
+
+2. Navegación por la Web con más de un explorador
+- Lectores de pantalla
+- Zoom
+
+3. Garantizar la accesibilidad con herramientas de desarrollo
+- Herramientas de comprobación del contraste
+  - Herramientas de generación de paletas:
+    - Adobe Color: una herramienta interactiva para probar combinaciones de colores
+    - Color Safe: una herramienta para generar colores de texto basados en un color de fondo seleccionado
+  - Herramientas de comprobación del cumplimiento:
+    - Extensiones del explorador para probar una página:
+      - Edge: WCAG Color contrast checker
+      - Firefox: WCAG Contrast checker
+      - Chrome: Colour Contrast Checker
+    - Aplicaciones:
+      - Colour Contrast Analyser (CCA)
+- Lighthouse
+
+4. Asegurarse de que los vínculos e imágenes sean accesibles
+- Texto del vínculo
+- Atributos ARIA
+- Texto alternativo para imágenes
+
+5. Accesibilidad del diseño
+- Uso del código HTML de la forma en que se diseñó
+- Uso de buenas indicaciones visuales
+- Tenga en cuenta el teclado
