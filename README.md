@@ -11,10 +11,10 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 - Módulo 2: Introducción al desarrollo web mediante Visual Studio Code. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-2)
 - Módulo 3: Los aspectos básicos de la accesibilidad web. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-3)
 - Módulo 4: Creación de una interfaz de usuario web con ASP.NET Core. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-4)
-- Módulo 5: Creación de una API web con controladores de ASP.NET Core
-- Módulo 6: Publicación de una aplicación web en Azure con Visual Studio
-- Módulo 7: Introducción a .NET
-- Módulo 8: Creación de un proyecto de .NET y trabajo con dependencias
+- Módulo 5: Creación de una API web con controladores de ASP.NET Core. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-5)
+- Módulo 6: Publicación de una aplicación web en Azure con Visual Studio. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-6)
+- Módulo 7: Introducción a .NET. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-7)
+- Módulo 8: Creación de un proyecto de .NET y trabajo con dependencias. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-8)
 - Módulo 9: Depuración interactiva de aplicaciones .NET con el depurador de Visual Studio Code
 - Módulo 10: Trabajo con archivos y directorios en una aplicación .NET
 - Módulo 11: Introducción al desarrollo web con Blazor
