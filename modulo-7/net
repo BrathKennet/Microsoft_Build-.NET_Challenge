@@ -1,0 +1,51 @@
+Comience a obtener información sobre .NET. Conozca primero en qué consiste .NET y cómo funciona y cree rápidamente una aplicación pequeña en un entorno de .NET basado en Web.
+
+1. ¿Qué es .NET?
+  - .NET es un ecosistema para el desarrollo de aplicaciones
+    - El término ecosistema describe las facetas múltiples de un entorno de desarrollo de aplicaciones y la comunidad que lo rodea.
+
+  - Uso de lenguajes y compiladores de .NET para ejecutar aplicaciones en el entorno de ejecución de .NET
+    - Los desarrolladores de software usan lenguajes de .NET, como C# y F#, para escribir código fuente.
+    - El compilador de .NET es un programa que convierte el código fuente en un lenguaje especial denominado lenguaje intermedio (IL).
+
+  - Uso de marcos de aplicaciones y bibliotecas de .NET para aprovechar la funcionalidad predefinida
+    - Una biblioteca de código encapsula la funcionalidad para un fin específico en un único ensamblado.
+    - Un marco de trabajo de aplicación combina varias bibliotecas relacionadas, junto con proyectos de inicio, plantillas de archivo, generadores de código y otras herramientas.
+
+  - Use herramientas de .NET para compilar aplicaciones de .NET
+    - Visual Studio 2022 es el entorno de desarrollo insignia de Microsoft. Millones de desarrolladores lo usan para compilar aplicaciones .NET.
+    - Los desarrolladores que prefieran un flujo de trabajo de línea de comandos pueden usar una combinación de Visual Studio Code, el editor de código más popular del mundo, y la interfaz de línea de comandos de .NET, también conocida como CLI de .NET.
+
+  - Búsqueda de soluciones y respuestas en la documentación y los tutoriales
+    - Microsoft Learn → https://learn.microsoft.com/es-es/
+    - Patrones y prácticas → https://learn.microsoft.com/es-es/azure/architecture/
+    - Vídeos de .NET → https://dotnet.microsoft.com/learn/videos
+    - Microsoft Learn → https://learn.microsoft.com/es-mx/training/paths/get-started-c-sharp-part-1/
+
+  - Interactuar con la comunidad de .NET para aprender y compartir soluciones
+    - Aprenda
+    - Contribuya
+
+2. Cómo usar .NET
+  - Configurado su entorno de desarrollo
+    - La primera decisión que toman los desarrolladores es seleccionar las herramientas que usarán para crear sus aplicaciones. En otras palabras, seleccionan su entorno de desarrollo.
+
+  - Funcionalidad de compilación
+    - Después, empiece a escribir la lógica de la aplicación. Agregue referencias a las bibliotecas de código cuando necesite hacer tareas especiales
+
+  - Compilación y ejecución de la aplicación
+    - Al compilar una nueva funcionalidad, crea el código que se ejecuta con frecuencia. Este flujo de trabajo permite evaluar qué funciona correctamente y qué es necesario revisar. 
+
+  - Depuración de la aplicación
+    - Mientras compila el software, ejecute la aplicación para comprobar si cumple sus requisitos y expectativas. 
+
+  - Distribuya la aplicación
+    - Cuando la aplicación esté lista para su lanzamiento, debe crear una versión de lanzamiento de la compilación. 
+  
+3. Cuándo se debe usar .NET
+  - .NET sirve para proyectos grandes y pequeños.
+  - Elija .NET cuando la productividad sea importante
+  - Elija .NET para aplicaciones a escala empresarial
+  - Elección de .NET para prototipos, startups y aplicaciones a pequeña escala
+  - Elija .NET para aplicaciones de IA y en la nube
+  - Elija .NET para compilar aplicaciones de IoT
