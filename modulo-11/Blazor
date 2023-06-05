@@ -1,0 +1,45 @@
+1. Blazor
+  - Blazor es un marco de interfaz de usuario basado en .NET y Razor que puede usar para crear aplicaciones.
+
+  - Blazor Server es una implementación del marco de interfaz de usuario de Blazor como parte del marco de 
+    desarrollo web de ASP.NET Core que se implementa en un servidor web.
+
+  - Blazor WebAssembly, a veces abreviado como Blazor WASM, es una implementación del marco de interfaz de usuario 
+    de Blazor que se ejecuta en el entorno de ejecución de WebAssembly estándar HTML 5, presente en todos 
+    los exploradores modernos.
+
+
+2. Cuándo se debe usar Blazor
+  - Familiaridad con .NET
+    - Blazor Server: La creación de aplicaciones se parecerá a una aplicación ASP.NET Core familiar	
+    - Blazor WebAssembly: La creación de aplicaciones usará sus capacidades existentes para ejecutar de 
+      forma nativa en el explorador
+
+  - Requisitos de integración
+    - Blazor Server: Existe un modelo para la integración con aplicaciones ASP.NET Core	
+    - Blazor WebAssembly: Permitir que esos recursos se ejecuten de forma nativa en el explorador ofrece 
+      una mejor interacción y rendimiento percibido que conectarse a un servidor web
+
+
+  - Configuración del servidor existente
+    - Blazor Server: Los servidores web existentes ejecutan ASP.NET Core	
+    - Blazor WebAssembly: Debe implementar la aplicación en cualquier servidor sin necesidad de 
+      representación en el lado servidor
+
+  - Complejidad de la aplicación
+    - Blazor Server: La aplicación tiene grandes requisitos de procesamiento que se benefician de las
+      aplicaciones distribuidas que se ejecutan en un centro de datos	
+    - Blazor WebAssembly: La aplicación puede beneficiarse de la ejecución con velocidades de procesador 
+      nativas en el cliente
+
+  - Requisitos de red
+    - Blazor Server: La aplicación siempre estará conectada a un servidor	
+    - Blazor WebAssembly: La aplicación puede ejecutarse en modo "conectado ocasionalmente" sin necesidad 
+      de interacción constante con un servidor.
+
+  - Requisitos de seguridad del código
+    - Blazor Server: La aplicación se valida o se requiere su ejecución en ubicaciones geográficas específicas 
+      que se pueden aplicar con un servidor
+    - Blazor WebAssembly: El código de la aplicación se puede ejecutar en cualquier lugar en cualquier 
+      dispositivo sin este requisito.
+
