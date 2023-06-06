@@ -19,9 +19,9 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 - Módulo 10: Trabajo con archivos y directorios en una aplicación .NET. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-10)
 - Módulo 11: Introducción al desarrollo web con Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-11)
 - Módulo 12: Compilación de una aplicación web con Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-12)
-- Módulo 13: Interacción con datos en aplicaciones web Blazor
-- Módulo 14: Uso de páginas, enrutamiento y diseños para mejorar la navegación de Blazor
-- Módulo 15: Mejora del modo en que funcionan los formularios y la validación en aplicaciones web de Blazor
+- Módulo 13: Interacción con datos en aplicaciones web Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-13)
+- Módulo 14: Uso de páginas, enrutamiento y diseños para mejorar la navegación de Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-14)
+- Módulo 15: Mejora del modo en que funcionan los formularios y la validación en aplicaciones web de Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-15)
 - Módulo 16: Compilación de componentes interactivos enriquecidos con aplicaciones web de Blazor
 - Módulo 17: Creación de componentes reutilizables con Blazor
 - Módulo 18: Creación del juego Conecta 4 con Blazor
