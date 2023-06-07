@@ -22,9 +22,9 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 - Módulo 13: Interacción con datos en aplicaciones web Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-13)
 - Módulo 14: Uso de páginas, enrutamiento y diseños para mejorar la navegación de Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-14)
 - Módulo 15: Mejora del modo en que funcionan los formularios y la validación en aplicaciones web de Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-15)
-- Módulo 16: Compilación de componentes interactivos enriquecidos con aplicaciones web de Blazor
-- Módulo 17: Creación de componentes reutilizables con Blazor
-- Módulo 18: Creación del juego Conecta 4 con Blazor
+- Módulo 16: Compilación de componentes interactivos enriquecidos con aplicaciones web de Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-16)
+- Módulo 17: Creación de componentes reutilizables con Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-17)
+- Módulo 18: Creación del juego Conecta 4 con Blazor. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-18)
 - Módulo 19: Externalización de la configuración de una aplicación de ASP.NET mediante una instancia de Azure Key Vault
 - Módulo 20: Implementación del registro en una aplicación web de ASP.NET de .NET Framework
 - Módulo 21: Mejora de la escalabilidad de sesión en una aplicación web de ASP.NET de .NET Framework con Azure Cache for Redis
