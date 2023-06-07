@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "3i2gPnW1dM4FP5FogbFiBOLFxZG0spqLurFtLFS603k=",
+  "Source": "My.FirstClassLibrary",
+  "BasePath": "_content/My.FirstClassLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "My.FirstClassLibrary\\wwwroot",
+      "Source": "My.FirstClassLibrary",
+      "ContentRoot": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\wwwroot\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\My.FirstClassLibrary.styles.css",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "My.FirstClassLibrary.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\My.FirstClassLibrary.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "My.FirstClassLibrary.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\wwwroot\\background.png",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\wwwroot\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brath\\Documents\\Dev\\Microsoft_Build_Desafío_de_.NET\\modulo-17\\FirstClassLibrary\\wwwroot\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
