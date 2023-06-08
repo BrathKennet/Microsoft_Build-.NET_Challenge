@@ -28,9 +28,9 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 - Módulo 19: Externalización de la configuración de una aplicación de ASP.NET mediante una instancia de Azure Key Vault. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-19)
 - Módulo 20: Implementación del registro en una aplicación web de ASP.NET de .NET Framework. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-20)
 - Módulo 21: Mejora de la escalabilidad de sesión en una aplicación web de ASP.NET de .NET Framework con Azure Cache for Redis. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-21)
-- Módulo 22: Compilación de una API web con una API mínima, ASP.NET Core y .NET
-- Módulo 23: Uso de una base de datos con una API mínima, Entity Framework Core y ASP.NET Core
-- Módulo 24: Creación de una aplicación de pila completa mediante React y una API mínima para ASP.NET Core
+- Módulo 22: Compilación de una API web con una API mínima, ASP.NET Core y .NET. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-22)
+- Módulo 23: Uso de una base de datos con una API mínima, Entity Framework Core y ASP.NET Core. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-23)
+- Módulo 24: Creación de una aplicación de pila completa mediante React y una API mínima para ASP.NET Core. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-24)
 - Módulo 25: Creación del primer microservicio con .NET
 - Módulo 26: Implementación de un microservicio de .NET en Kubernetes
 - Módulo 27: Creación e implementación de un microservicio de ASP.NET Core nativo de nube
