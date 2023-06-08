@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/modulo-4/mslearn-create-razor-pages-aspnet-core/ContosoPizza/bin/Debug/net7.0/ContosoPizza.dll",
+      "program": "${workspaceFolder}/bin/Debug/net6.0/PizzaStore.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/modulo-4/mslearn-create-razor-pages-aspnet-core/ContosoPizza",
+      "cwd": "${workspaceFolder}",
       "stopAtEntry": false,
       // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
       "serverReadyAction": {
