@@ -31,9 +31,9 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 - Módulo 22: Compilación de una API web con una API mínima, ASP.NET Core y .NET. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-22)
 - Módulo 23: Uso de una base de datos con una API mínima, Entity Framework Core y ASP.NET Core. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-23)
 - Módulo 24: Creación de una aplicación de pila completa mediante React y una API mínima para ASP.NET Core. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-24)
-- Módulo 25: Creación del primer microservicio con .NET
-- Módulo 26: Implementación de un microservicio de .NET en Kubernetes
-- Módulo 27: Creación e implementación de un microservicio de ASP.NET Core nativo de nube
+- Módulo 25: Creación del primer microservicio con .NET. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-25)
+- Módulo 26: Implementación de un microservicio de .NET en Kubernetes. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-26)
+- Módulo 27: Creación e implementación de un microservicio de ASP.NET Core nativo de nube. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-27)
 - Módulo 28: Implementación de la resistencia en un microservicio de ASP.NET Core nativo de nube
 - Módulo 29: Instrumentación de un microservicio de ASP.NET Core nativo de nube
 - Módulo 30: Implementación de marcas de característica en una aplicación de microservicios de ASP.NET Core nativa de nube
