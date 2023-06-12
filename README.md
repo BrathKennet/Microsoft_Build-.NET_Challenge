@@ -37,6 +37,6 @@ Cree aplicaciones para la Web, dispositivos móviles, el escritorio y mucho más
 - Módulo 28: Implementación de la resistencia en un microservicio de ASP.NET Core nativo de nube. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-28)
 - Módulo 29: Instrumentación de un microservicio de ASP.NET Core nativo de nube. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-29)
 - Módulo 30: Implementación de marcas de característica en una aplicación de microservicios de ASP.NET Core nativa de nube. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-30)
-- Módulo 31: Uso de almacenes de datos administrados en una aplicación de microservicios de ASP.NET Core nativa de la nube
-- Módulo 32: Uso de puertas de enlace de API en una aplicación de microservicios de ASP.NET Core nativa de nube
-- Módulo 33: Implementación de un microservicio de ASP.NET Core nativo de nube con Acciones de GitHub
+- Módulo 31: Uso de almacenes de datos administrados en una aplicación de microservicios de ASP.NET Core nativa de la nube. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-31)
+- Módulo 32: Uso de puertas de enlace de API en una aplicación de microservicios de ASP.NET Core nativa de nube. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-32)
+- Módulo 33: Implementación de un microservicio de ASP.NET Core nativo de nube con Acciones de GitHub. [↗](https://github.com/BrathKennet/Microsoft_Build-.NET_Challenge/tree/master/modulo-33)
